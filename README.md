@@ -49,6 +49,7 @@ Tip: print the image target at the correct size for more accurate tracking. The 
 ## Limitations & roadmap
 
 - Static models only: the 3D models are non-interactive and have no animations.
+- Tracking is jittery
 - Planned improvements:
 	- Add basic interactions (rotate/scale/touch info)
 	- Add small guided quizzes and measurement overlays
@@ -72,10 +73,9 @@ Please include device/Unity version information with any bug reports.
 	- Confirm the ImageTarget prefab references the correct image/trackable.
 	- Check camera permissions on the device.
 	- In Editor, verify Play Mode is set to use your webcam or that Play Mode simulation is enabled.
-
-- Tracking is jittery:
-	- Try printing the target at the recommended size and use good lighting.
-
 ## License & attribution
 
-No license file is included by default. If you want to make this project open-source, consider adding a `LICENSE` (for example the MIT license) and update this README.
+This project is licensed under the MIT License — see the `LICENSE` file in the repository root for full terms and attribution.
+
+Copyright © 2025 Shahriar Shihab
+
