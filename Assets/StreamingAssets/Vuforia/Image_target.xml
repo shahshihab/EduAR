@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bs" size="1.000000 1.094118" />
+    <ImageTarget name="ms" size="1.000000 1.030058" />
+    <ImageTarget name="sg1" size="1.000000 0.562500" />
+    <ImageTarget name="flasks" size="1.000000 0.633127" />
+  </Tracking>
+</QCARConfig>
